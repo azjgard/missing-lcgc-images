@@ -1,5 +1,4 @@
 ## VIALS:
-#### (this includes both the images below as well as the non \_sm variations)
 - Empty100VialCase.jpg 
 - Vials_100VialCase.jpg 
 - clearstd8mmwhiteptfesil.jpg 
